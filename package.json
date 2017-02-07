@@ -32,6 +32,7 @@
     "unit": "cross-env NODE_ENV=test ./node_modules/.bin/gulp unit"
   },
   "dependencies": {
+    "angular-drag-and-drop-lists": "^2.1.0",
     "cross-env": "^3.1.1"
   },
   "devDependencies": {
