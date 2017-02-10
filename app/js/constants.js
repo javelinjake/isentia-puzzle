@@ -1,5 +1,6 @@
 const AppSettings = {
-  appTitle: 'isentia - Puzzle'
+  puzzleDifficulty: 3,
+  puzzleHoverColour: '#ff7a45'
 };
 
 export default AppSettings;
